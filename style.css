@@ -9,7 +9,7 @@ body {
 
 /*Stilizarea pentru header*/
 header {
-    background-image: url(/images/header-background.jpg);
+    background-image: url(images/header-background.jpg);
     display: flex;
     justify-content: center;
     align-items: baseline;
