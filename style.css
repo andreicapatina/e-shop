@@ -7,7 +7,7 @@ body {
     font-family: "Roboto";
 }
 
-/*Stilizarea pentru header*/
+/* Stilizarea pentru header */
 header {
     background-image: url(images/header-background.jpg);
     display: flex;
