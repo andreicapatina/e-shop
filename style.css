@@ -41,7 +41,6 @@ main h1 {
 }
 
 /* Stilizarea pentru sectiunea principala cu carduri*/
-
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -203,8 +202,3 @@ main h1 {
     border-radius: 5px;
     cursor: pointer;
 }
-
-    
-    
-
-
